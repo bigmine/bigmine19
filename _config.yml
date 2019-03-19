@@ -1,0 +1,44 @@
+# Site wide configuration
+
+title: BigMine 2018
+locale: en_US
+description: 7th International Workshop on Big Data, Streams and Heterogeneous Source Mining- Algorithms, Systems, Programming Models and Applications.
+logo: site-logo.png
+search_omit: false
+url: https://bigmine.github.io/bigmine18
+
+# Jekyll configuration
+
+markdown:    kramdown
+highlighter: rouge
+sass:
+  sass_dir: _sass
+  style: compressed
+gems:
+  - jekyll-sitemap
+  - jekyll-gist
+
+kramdown:
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..2
+  enable_coderay: false
+
+mathjax: true
+
+include: [".htaccess"]
+exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md", "vendor"]
+
+# Format titles with titlecase?
+titlecase: false
+
+# Site owner
+owner:
+  name: BigMine 2018
+  email: bigmine2016@easychair.org
+  twitter: BigDataMining1
+  facebook: BigDataMining
+  linkedin: groups/4422366
+  google:
+    analytics:UA-586895-5

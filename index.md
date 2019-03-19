@@ -1,12 +1,12 @@
 ---
 layout: main-page
-title: #BigDataMining BigMine 18
+title: #BigDataMining BigMine 19
 search_omit: false
 image:
   feature: london2.jpg
 ---
 
-**7th International Workshop on Big Data, Streams and Heterogeneous Source Mining: Algorithms, Systems, Programming Models and Applications**
+**8th International Workshop on Big Data, IoT Streams and Heterogeneous Source Mining: Algorithms, Systems, Programming Models and Applications**
 
 [KDD 2018](http://www.kdd.org/kdd2018/), August 20, London, UK
 

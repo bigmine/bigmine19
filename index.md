@@ -3,12 +3,12 @@ layout: main-page
 title: #BigDataMining BigMine 19
 search_omit: false
 image:
-  feature: london2.jpg
+  feature: anchorage.jpg
 ---
 
 **8th International Workshop on Big Data, IoT Streams and Heterogeneous Source Mining: Algorithms, Systems, Programming Models and Applications**
 
-[KDD 2018](http://www.kdd.org/kdd2018/), August 20, London, UK
+[KDD 2019](http://www.kdd.org/kdd2019/), August 08, Anchorage, Alaska
 
 Previous KDD BigMines in 
 
@@ -18,6 +18,7 @@ Previous KDD BigMines in
 * Sydney 2015 (<a href="http://bigdata-mining.org/bigmine-15/" target="_blank">BigMine 15</a>),
 * San Francisco 2016 (<a href="https://bigmine.github.io/bigmine16" target="_blank">BigMine 16</a>),
 * Halifax 2017 (<a href="https://bigmine.github.io/bigmine17" target="_blank">BigMine 17</a>),
+* London 2018 (<a href="https://bigmine.github.io/bigmine18" target="_blank">BigMine 18</a>),
 
 
 Previous Keynote Speakers:

@@ -4,6 +4,9 @@ title: Schedule
 image:
   feature: london2.jpg
 ---
+
+T.B.A.
+
 <!-- Preliminary schedule:
 Coming soon...
 
@@ -15,7 +18,6 @@ Coffee breaks at 10:00am-10:30am and 3:00pm-3:30pm
 Lunch 12-1pm  
 End time: 5pm 
 
--->
 
 | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp;  Time &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description |
 | :---  | :---  |
@@ -51,4 +53,5 @@ End time: 5pm
 
 
 
+-->
 

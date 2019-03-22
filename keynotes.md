@@ -5,6 +5,10 @@ image:
   feature: london2.jpg
 ---
 
+T.B.A.
+
+<!-- 
+
 ## Manik Varma (Microsoft Research India) -  The Extremes of Machine Learning
 
 I will discuss extremely large and extremely small scale machine learning in this talk. I will start by introducing extreme classification – a new area of research focusing on multi-class & multi-label problem involving millions of categories. Extreme classification has opened a new paradigm for thinking about key applications in our industry. I will discuss algorithms for some of these applications and present results on tagging on Wikipedia, product recommendation on Amazon and search and advertising on the Bing search engine. More details can be found on The Extreme Classification Repository at http://manikvarma.org/downloads/XC/XMLRepository.html
@@ -86,3 +90,5 @@ Dr. Latifur Khan has published over 250 papers in premier journals such as VLDB,
 Currently, Dr. Khan’s research area focuses on big data management and analytics, data mining and its application over cyber security, complex data management including geo-spatial data and multimedia data. His research has been supported by grants from NSF, the Air Force Office of Scientific Research (AFOSR), DOE, NSA, IBM and HPE.  More details can be found at: www.utdallas.edu/~lkhan/
  |
 
+
+-->

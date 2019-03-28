@@ -2,9 +2,12 @@
 layout: page
 title: Accepted Papers
 image:
-  feature: london2.jpg
+  feature: anchorage.jpg
 ---
 
+TBA 
+
+<!-- 
 - Rachna Rani and Durga Toshniwal. 
 *Temporal Approach to Opinion Fraud Detection*
 
@@ -22,3 +25,4 @@ image:
 
 - Vassilios Vassiliadis, Michalis Vlachos, Thomas Parnell, Celestine Duenner, Kathrin Kathrin Wardatzky and Kubilay Atasu. 
 *Challenges and Experiences in Building an Interactive Enterprise-Scale B2B Recommender System with Natural Language Support*
+-->

@@ -2,7 +2,7 @@
 layout: page
 title: Schedule
 image:
-  feature: london2.jpg
+  feature: anchorage.jpg
 ---
 
 T.B.A.

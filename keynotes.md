@@ -2,7 +2,7 @@
 layout: page
 title: Keynotes
 image:
-  feature: london2.jpg
+  feature: anchorage.jpg
 ---
 
 T.B.A.

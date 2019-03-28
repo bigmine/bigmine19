@@ -2,7 +2,7 @@
 layout: page
 title: Registration
 image:
-  feature: sf1.png
+  feature: anchorage.jpg
 ---
 
 TBA

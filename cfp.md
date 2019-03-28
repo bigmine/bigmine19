@@ -2,8 +2,12 @@
 layout: page
 title: Call for Papers
 image:
-  feature: london2.jpg
+  feature: anchorage.jpg
 ---
+
+TBA
+
+<!-- 
 
 **Big Data Mining (KDD BigMine-18)**   
 The 7th International Workshop on Big Data on Streams and Heterogeneous Source Mining - A KDD2018 Workshop
@@ -73,4 +77,6 @@ Workshop Chairs
 * Si Si, Google Research
 * Philip Yu, University of Illinois at Chicago
 * Qiang Yang, Hong Kong University of Science and Technology
+
+-->
 

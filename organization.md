@@ -2,8 +2,12 @@
 layout: page
 title: Organization
 image:
-  feature: london2.jpg
+  feature: anchorage.jpg
 ---
+
+TBA
+
+<!--
 
 Workshop Chairs
 ==========
@@ -135,3 +139,5 @@ Program Committee
 * Aden Yuen, Tencent
 * Demetris Zeinalipour, Max Planck Institute for Informatics
 * Xingquan Zhu, University of Technology, Sydney
+
+-->

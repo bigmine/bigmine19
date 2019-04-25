@@ -8,20 +8,20 @@ image:
 
 Workshop Chairs
 ==========
-* Michele Berlingerio
-Eaton
+* Michele Berlingerio  
+Eaton  
 Dublin, Ireland
 
-* Joao Gama
-University of Porto
+* Joao Gama  
+University of Porto  
 Porto, Portugal
 
-* Jesse Read
+* Jesse Read  
 École Polytechnique  
 Paris, France
 
-* Eugene Ryan
-Eaton
+* Eugene Ryan  
+Eaton  
 Dublin, Ireland
 
 Steering Committee

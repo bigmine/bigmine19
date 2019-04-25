@@ -5,63 +5,37 @@ image:
   feature: anchorage.jpg
 ---
 
-TBA
-
-<!--
 
 Workshop Chairs
 ==========
-Please email: bigmine2018@gmail.com for any query.
+* Michele Berlingerio
+Eaton
+Dublin, Ireland
 
-* Albert Bifet  
-Telecom-ParisTech  
-E-mail: albert.bifet at telecom-paristech.fr
-
-* Inderjit Dhillon  
-University of Texas at Austin  
-E-mail: inderjit at cs.utexas.edu
-
-* Wei Fan  
-Baidu Research Big Data Lab  
-E-mail: wei.fan at gmail.com
-
-* Marwan Hassani  
-Eindhoven University of Technology   
-E-mail: m.hassani at tue.nl
-
-* Cho-Jui Hsieh  
-University of California, Davis  
-E-mail: chojui.hsieh at gmail.com 
-
-* Sanjiv Kumar  
-Google Research  
-E-mail: sanjivk at google.com 
-
-* Yang Li  
-Google Research  
-E-mail: liyang at google.com
+* Joao Gama
+University of Porto
+Porto, Portugal
 
 * Jesse Read  
 École Polytechnique  
-E-mail: jesse.read at polytechnique.edu
+Paris, France
 
-* Si Si  
-Google Research  
-E-mail: sisidaisy at google.com
+* Eugene Ryan
+Eaton
+Dublin, Ireland
 
-* Philip Yu  
-University of Illinois at Chicago  
-E-mail: psyu at cs.uic.edu
-
-* Qiang Yang  
-Hong Kong University of Science and Technology  
-E-mail: qyang at cse.ust.hk
+Steering Committee
+==========
+* Wei Fan, Tencent
+* Albert Bifet, Telecom ParisTech
+* Philip Yu, University of Illinois at Chicago
+* Qiang Yang, Hong Kong University of Science and Technology
 
 Organizers
 ==========
 * Albert Bifet, Telecom ParisTech
 * Inderjit Dhillon, University of Texas at Austin 
-* Wei Fan, Baidu Research Big Data Lab
+* Wei Fan, Tencent
 * Jing Gao, University at Buffalo
 * Le Gruenwald, University of Oklahoma
 * Dimitrios Gunopulos, University of Athens
@@ -139,5 +113,3 @@ Program Committee
 * Aden Yuen, Tencent
 * Demetris Zeinalipour, Max Planck Institute for Informatics
 * Xingquan Zhu, University of Technology, Sydney
-
--->

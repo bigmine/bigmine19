@@ -5,11 +5,8 @@ image:
   feature: anchorage.jpg
 ---
 
-<!--
+* Paper Submission deadline: May 5, 2019, 23:59PM Pacific Standard Time
+* Acceptance notification: June 1, 2019
+* Workshop: August 5, 2019
 
-* Paper Submission deadline: ~~May 18~~ May 27, 2018 23:59PM Pacific Standard Time
-* Acceptance notification: ~~June 18, 2018~~
-* Workshop: August 20, 2018
-
--->
 

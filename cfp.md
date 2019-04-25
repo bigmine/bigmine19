@@ -4,19 +4,16 @@ title: Call for Papers
 image:
   feature: anchorage.jpg
 ---
+ 
 
-TBA
-
-<!-- 
-
-**Big Data Mining (KDD BigMine-18)**   
-The 7th International Workshop on Big Data on Streams and Heterogeneous Source Mining - A KDD2018 Workshop
+**Big Data Mining (KDD BigMine-19)**   
+The 8th International Workshop on Big Data on Streams and Heterogeneous Source Mining - A KDD2018 Workshop
    
-KDD2018 Conference Dates: August 19-23, 2018  
-Workshop Date: Aug 20, 2018  
-London, United Kingdom
+KDD2018 Conference Dates: August 4-8, 2019  
+Workshop Date: Aug 5, 2019  
+Anchorage, Alaska - USA
 
-https://bigmine.github.io/bigmine18/
+https://bigmine.github.io/bigmine19/
 
 Scope
 -----
@@ -56,27 +53,14 @@ Submission
 
 Submitted papers will be assessed based on their novelty, technical quality, potential impact, and clarity of writing. For papers that rely heavily on empirical evaluations, the experimental methods and results should be clear, well executed, and repeatable. Authors are strongly encouraged to make data and code publicly available whenever possible.
 
-More details on submission: https://bigmine.github.io/bigmine18/submission.html
+More details on submission: https://bigmine.github.io/bigmine19/submission.html
 
 Key Dates
 ---------
-* Paper Submission deadline: ~~May 18~~ May 27, 2018, 23:59PM Pacific Standard Time
-* Acceptance notification: June 18, 2018
-* Workshop: August 20, 2018
+* Paper Submission deadline: May 5, 2019, 23:59PM Pacific Standard Time
+* Acceptance notification: June 1, 2019
+* Workshop: August 5, 2019
 
-Workshop Chairs
----------------
-* Albert Bifet, Telecom-ParisTech
-* Inderjit Dhillon, University of Texas at Austin
-* Wei Fan, Baidu Research Big Data Lab
-* Marwan Hassani, Eindhoven University of Technology
-* Cho-Jui Hsieh, University of California, Davis
-* Sanjiv Kumar, Google Research
-* Yang Li, Google Research
-* Jesse Read, Ecole Polytechnique
-* Si Si, Google Research
-* Philip Yu, University of Illinois at Chicago
-* Qiang Yang, Hong Kong University of Science and Technology
 
--->
+
 

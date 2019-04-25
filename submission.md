@@ -4,10 +4,7 @@ title: Submission
 image:
   feature: anchorage.jpg
 ---
-
-TBA
-
-<!-- 
+ 
 Submissions are limited to a total of 9 (nine) pages, including all content and references, and must be in PDF format and formatted according to the new Standard ACM Conference Proceedings Template.  Following KDD conference tradition, reviews are not double-blind, and author names and affiliations should be listed.
 
 For LaTeX users: unzip acmart.zip, make, and use sample-sigconf.tex as a template; Additional information about formatting and style files is available online at: [https://www.acm.org/publications/proceedings-template](https://www.acm.org/publications/proceedings-template).
@@ -16,8 +13,8 @@ Papers that do not meet the formatting requirements will be rejected without rev
 
 For accepted papers, authors will have the opportunity to revise their papers in response to the reviewers before final submission.
 
-The deadline for submission is: **~~May 18th 23:59PM~~ May 27th 23:59PM**.
+The deadline for submission is:  May 5th 23:59PM.
 
-Submit your paper through the [BIGMINE 2018 Sumission Site](https://easychair.org/conferences/?conf=bigmine2018).
+Submit your paper through the [BIGMINE 2019 Sumission Site](https://easychair.org/conferences/?conf=bigmine2019).
 
--->
+

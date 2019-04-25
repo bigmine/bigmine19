@@ -8,20 +8,28 @@ image:
 
 Workshop Chairs
 ==========
-* Michele Berlingerio  
+* Michele Berlingerio 
+
 Eaton  
+
 Dublin, Ireland
 
 * Joao Gama  
+
 University of Porto  
+
 Porto, Portugal
 
 * Jesse Read  
+
 École Polytechnique  
+
 Paris, France
 
 * Eugene Ryan  
+
 Eaton  
+
 Dublin, Ireland
 
 Steering Committee

@@ -16,7 +16,7 @@ Dublin, Ireland
 University of Porto
 Porto, Portugal
 
-* Jesse Read  
+* Jesse Read
 École Polytechnique  
 Paris, France
 

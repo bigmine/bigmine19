@@ -13,7 +13,7 @@ Papers that do not meet the formatting requirements will be rejected without rev
 
 For accepted papers, authors will have the opportunity to revise their papers in response to the reviewers before final submission.
 
-The deadline for submission is:  May 5th 23:59PM.
+The deadline for submission ~~is:  May 5th~~ has been extended to **May 12th** 23:59PM.
 
 Submit your paper through the [BIGMINE 2019 Sumission Site](https://easychair.org/conferences/?conf=bigmine2019).
 

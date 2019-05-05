@@ -32,6 +32,17 @@ Eaton
 
 Dublin, Ireland
 
+
+Publicity Chair
+==========
+
+* Carlos Abreu Ferreira
+
+University of Porto  
+
+Porto, Portugal
+
+
 Steering Committee
 ==========
 * Wei Fan, Tencent
@@ -62,6 +73,7 @@ Organizers
 * Kun Zhang, Xavier University of Louisiana
 * Xiatian Zhang, TalkingData. Ltd.
 * Yuanchun Zhou, Chinese Academy of Sciences
+
 
 Program Committee
 ==========

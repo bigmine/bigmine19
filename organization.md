@@ -8,39 +8,20 @@ image:
 
 Workshop Chairs
 ==========
-* Michele Berlingerio 
 
-Eaton  
+* Michele Berlingerio, Eaton, Dublin, Ireland
 
-Dublin, Ireland
+* Joao Gama, University of Porto, Porto, Portugal
 
-* Joao Gama  
+* Jesse Read, École Polytechnique, Paris, France
 
-University of Porto  
-
-Porto, Portugal
-
-* Jesse Read  
-
-École Polytechnique  
-
-Paris, France
-
-* Eugene Ryan  
-
-Eaton  
-
-Dublin, Ireland
+* Eugene Ryan, Eaton, Dublin, Ireland
 
 
 Publicity Chair
 ==========
 
-* Carlos Abreu Ferreira
-
-University of Porto  
-
-Porto, Portugal
+* Carlos Abreu Ferreira, University of Porto, Porto, Portugal
 
 
 Steering Committee

@@ -7,11 +7,8 @@ image:
 
 Tubughnenq 4- Level 2, Dena’ina
 
-Start Time:1pm  
-Coffee breaks at 3:30pm-4:00pm   
-End time: 5pm 
 
-| &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Time &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description |
+| &nbsp; &nbsp; &nbsp; &nbsp; Time &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description |
 | :---  | :---  |
 | 13:00-13:05 | **Opening Remarks** |
 | 13:05-14:00 | **Keynote Talk by Jian Pei**  |

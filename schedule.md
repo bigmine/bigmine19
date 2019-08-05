@@ -18,14 +18,14 @@ Tubughnenq 4- Level 2, Dena’ina
 |               |   Ritaban Dutta. |
 | 14:30-15:00 | **Coffee Break** |
 | 15:00-17:00 | **Paper Session 2** |
-|               | *Detecting Bursts of Activity in Telecommunications*|
-|               |  Bruno Veloso, Raul Azevedo and Joao Gama |
 |               | *Online Transfer Learning for Concept Drifting Data Streams*|
 |               |   Helen Mckay, Nathan Griffiths, Phillip Taylor, Theo Damoulas and Xu Zhou. |
 |               | *Time Decayed Sampling Designs*|
 |               |   Daniel Ting |
 |               | *System Demonstration of MRAM Co-designed Processing-in-Memory CNN Accelerator for Mobile and IoT Applications*|
-|               |  Baohua Sun, Daniel Liu, Leo Yu, Jay Li, Helen Liu, Wenhan Zhang and Terry Torng. ||
+|               |  Baohua Sun, Daniel Liu, Leo Yu, Jay Li, Helen Liu, Wenhan Zhang and Terry Torng. |
+|               | *Detecting Bursts of Activity in Telecommunications*|
+|               |  Bruno Veloso, Raul Azevedo and Joao Gama ||
 | 17:00-17:05 | **Final Remarks** |
 
 
